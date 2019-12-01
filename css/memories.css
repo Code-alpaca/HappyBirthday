@@ -195,7 +195,7 @@
 /*文本*/
 .ly-txt01 {
 	position:absolute;
-	width: 40%;
+	width: 50%;
 	left:10%;
 	top:10%;
 }
@@ -208,7 +208,7 @@
 .ly-stxt01 {
 	font-family: Microsoft YaHei;
 	font-size: 30px;
-	font-color: #000;
+	font-color: rgba(70, 127, 172, 0.96);
 	position: relative;
 	left: 5%;
 	top: 5%;
@@ -235,7 +235,7 @@
 
 .ly-stxt02 {
 	font-family: Microsoft YaHei;
-	font-size: 30px;
+	font-size: 15px;
 	font-color: #000;
 	position: relative;
 	left: 5%;
@@ -264,7 +264,7 @@
 
 .ly-stxt03 {
 	font-family: Microsoft YaHei;
-	font-size: 30px;
+	font-size: 15px;
 	font-color: #000;
 	position: relative;
 	left: 5%;
@@ -293,7 +293,7 @@
 
 .ly-stxt04 {
 	font-family: Microsoft YaHei;
-	font-size: 30px;
+	font-size: 15px;
 	font-color: #000;
 	position: relative;
 	left: 5%;
@@ -322,7 +322,7 @@
 
 .ly-stxt05 {
 	font-family: Microsoft YaHei;
-	font-size: 30px;
+	font-size: 15px;
 	font-color: #000;
 	position: relative;
 	left: 5%;
@@ -351,10 +351,10 @@
 
 .ly-stxt06 {
 	font-family: Microsoft YaHei;
-	font-size: 30px;
+	font-size: 15px;
 	font-color: #000;
 	position: relative;
-	right: 5%;
+	left: 5%;
 	top: 5%;
 	opacity: 0;
 	animation:ly-stxt06_move 15s;
@@ -379,10 +379,10 @@
 
 .ly-stxt07 {
 	font-family: Microsoft YaHei;
-	font-size: 30px;
+	font-size: 15px;
 	font-color: #000;
 	position: relative;
-	right: 5%;
+	left: 5%;
 	top: 5%;
 	opacity: 0;
 	margin-top:-71px;
@@ -408,10 +408,10 @@
 
 .ly-stxt08 {
 	font-family: Microsoft YaHei;
-	font-size: 30px;
+	font-size: 15px;
 	font-color: #000;
 	position: relative;
-	right: 5%;
+	left: 5%;
 	top: 5%;
 	opacity: 0;
 	margin-top:-71px;
@@ -437,10 +437,10 @@
 
 .ly-stxt09 {
 	font-family: Microsoft YaHei;
-	font-size: 30px;
+	font-size: 15px;
 	font-color: #000;
 	position: relative;
-	right: 5%;
+	left: 5%;
 	top: 5%;
 	opacity: 0;
 	margin-top:-71px;
@@ -466,10 +466,10 @@
 
 .ly-stxt10 {
 	font-family: Microsoft YaHei;
-	font-size: 30px;
+	font-size: 15px;
 	font-color: #000;
 	position: relative;
-	right: 5%;
+	left: 5%;
 	top: 5%;
 	opacity: 0;
 	margin-top:-71px;
@@ -606,10 +606,10 @@
 	position: absolute;
 	bottom: 0;
 	width: 100%;
-	height: 70%;
+	height: 100%;
 	border-radius: 8px;
 	opacity:0;
-	overflow: hidden;
+	overflow: visible;
 	transition:all 0.5s;
 }
 .active .ly-imgbox11{
@@ -619,7 +619,7 @@
 .ly-img11{
 	position: absolute;
 	width: 100%;
-	bottom: 0;
+	bottom: 30%;
 }
 /*文本*/
 .ly-txt11 {
@@ -833,7 +833,7 @@
 .ly-img21{
 	position: absolute;
 	width: 100%;
-	bottom: 0;
+	bottom: 50%;
 }
 /*文本*/
 .ly-txt21 {
