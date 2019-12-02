@@ -980,7 +980,7 @@
 /* 盒子 */
 .ly-box23 {
 	width: 20%;
-	height: 0;
+	height: 0%;
 	border: 2px #CCC;
 	background-color: #fff;
 	background-color: rgba(255,255,255,0.6);
@@ -993,7 +993,7 @@
 	transition: all 10s;
 }
 .active .ly-box23{
-	height:500px;
+	height: 70%;
 	transition-delay: 8s;
 }
 /*小三角*/
@@ -1007,7 +1007,7 @@
 	margin-left: 24px;
 	position: absolute;
 	right: 39%;
-	top: 66%;
+	top: 35%;
 	opacity: 0;
 	-webkit-transform: scale(0.5, 0.5);
 	transform: scale(0.5, 0.5);
